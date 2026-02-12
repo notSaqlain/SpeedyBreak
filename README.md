@@ -11,4 +11,4 @@ Siamo aperti a contributi e suggerimenti. Si prega di consultare le linee guida 
 
 ## 📄 Licenza
 
-Questo progetto è distribuito sotto la licenza. Consulta il file `LICENSE` per ulteriori dettagli.
+Questo progetto è distribuito sotto la licenza GPL-3.0 license. Consulta il file `LICENSE` per ulteriori dettagli.
