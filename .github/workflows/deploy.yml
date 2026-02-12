@@ -3,7 +3,7 @@ name: Deploy to Altervista
 on:
   push:
     branches:
-      - main
+      - develop
 
 jobs:
   web-deploy:
