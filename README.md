@@ -12,4 +12,3 @@ Siamo aperti a contributi e suggerimenti. Si prega di consultare le linee guida 
 ## 📄 Licenza
 
 Questo progetto è distribuito sotto la licenza. Consulta il file `LICENSE` per ulteriori dettagli.
-```
