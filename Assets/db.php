@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db   = 'my_zannini';
+$db   = 'my_saqlain';
 $user = 'root';      
 $pass = '';
 $charset = 'utf8mb4';
